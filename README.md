@@ -2,10 +2,9 @@
 <h3 align="center">Consultant | Functional expert turns into Frontend Developer | Angular enthusiastic</h3>
 
  - 🔭 I’m currently working at [Deloitte Consulting India PVT LTD](https://www2.deloitte.com/in/en.html)
- - 🌱 I’m currently learning **New features of JavaScript and Frontend Technologies**.
+ - 🌱 I’m currently learning **Multi cloud technologies**.
  - 👯 I’m looking to collaborate on **Open Source Projects**.
- - 🤔 I’m looking for help with **Web security and performance**.
- - 💬 Ask me about **JavaScript, Angular**.
+ - 💬 Ask me about **Docker, K8s, Ansible**.
  - 📫 How to reach me: **rnitin.tech@gmail.com**
  - ⚡ Fun fact: **Photography, Trekking**
 

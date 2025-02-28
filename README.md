@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nitin Rathod</h1>
-<h3 align="center">Consultant | Functional expert turns into DevOps Consultant | MultiCloud enthusiastic</h3>
+<h3 align="center">Consultant | Functional expert turns into AWS DevOps Consultant | MultiCloud enthusiastic</h3>
 
  - 🔭 I’m currently working at [Deloitte Consulting India PVT LTD](https://www2.deloitte.com/in/en.html)
  - 🌱 I’m currently learning **Multi cloud technologies**.
